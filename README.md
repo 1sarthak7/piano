@@ -8,8 +8,8 @@ A web-based interactive piano application that allows users to play songs and le
 
 <div align="center">
 
-## 💗 Crafted with Heart by  
-### **Sarthak Bhopale**
+##  Created by  
+### **💗Sarthak Bhopale💗**
 
 <p>
   <a href="https://github.com/1sarthak7">
