@@ -1,0 +1,33 @@
+:root {
+  --bg-color: #0d0e12;
+  --panel-bg: #161821;
+  --text-primary: #f0f0f5;
+  --text-secondary: #a0a4b8;
+  --neon-blue: #00f0ff;
+  --neon-purple: #bd00ff;
+  --white-key-bg: #ffffff;
+  --black-key-bg: #121212;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  height: 100vh;
+  overflow: hidden;
+  user-select: none;
+}
+
+#root {
+  height: 100%;
+}
+
+button {
+  font-family: 'Outfit', sans-serif;
+}
